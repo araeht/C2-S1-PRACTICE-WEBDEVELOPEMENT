@@ -106,6 +106,9 @@ body {
   color: var(--grey-color);
 }
 
+
 .warning {
-  color: var(--secondary-color);
+  color: orange;
+  font-weight: bold;
 }
+
